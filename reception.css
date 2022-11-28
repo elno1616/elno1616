@@ -1,0 +1,150 @@
+h1
+{
+	font-size: 50px;
+	font-weight:normal;
+	text-align: center;
+	text-align: center;
+	color: blue;
+	background-image: url(logos.png), url(logos.png);
+    background-size: 150px 30px;
+    background-repeat: no-repeat, no-repeat;
+    background-position: top left, top right;
+}
+body
+{
+	font-family: century gathic, calibri, serif;
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url();
+	background-color: rosybrown;
+	position: 50%;
+
+}
+.image
+{
+	
+	
+	text-align: center;
+	margin: auto;
+
+}
+h1
+{
+ 
+   border: 1px solid #000000;
+ 
+}
+body
+{
+	font-family: century gathic, calibri, serif;
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url();
+	background-color: yellow;
+
+}
+h1
+{
+	font-size: 50px;
+	font-weight:normal;
+	text-align: center;
+	text-align: center;
+	color: dodgerblue;
+	background-image: url(logos.png), url(logos.png);
+    background-size: 150px 30px;
+    background-repeat: no-repeat, no-repeat;
+    background-position: top left, top right;
+}
+header
+{
+	height: 100%;
+
+}
+footer
+{
+	height: 80px;
+	padding-top: 50px;
+	text-align: center;
+	background-color: #c5c5c5;
+	border-top: solid #AAA;
+}
+nav
+{
+	width: 100%;
+	background-color: #424558;
+
+}
+nav ul
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+nav li
+{
+   list-style-type: none;
+   float: left;
+    
+}
+nav a
+{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px ;
+    color: #FFF;
+    font-size: 15px;
+
+    
+}
+.table
+{
+	display: table;
+	margin: 0px auto;
+}
+.menu-acc:hover
+{
+	border-top: solid #4444;
+	background-color: blue;
+}
+.menu-dep:hover
+{
+	border-top: solid #4444;
+	background-color: blue;
+}
+.menu-retr:hover
+{
+	border-top: solid #4444;
+	background-color: blue;
+}
+.menu-reclam:hover
+{
+	border-top: solid #4444;
+	background-color: blue;
+}
+@media screen and (max-width: 780px)
+  header
+ {
+ 	height: 50px;
+
+ }
+
+ h1
+ {
+ 	font-size: 28px;
+ 	margin: 20px 0px 0px 0px;
+ }
+ nav li a
+ {
+font-size: 12px;
+padding: 10px;
+ }
+ nav li:hover a
+ {padding: 5px 10px 10px 10px;}
+
+body
+{
+	background-color: rosybrown;
+}
+
